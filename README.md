@@ -7,7 +7,7 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
 - Animated envelope that opens on click
 - 3x3 sliding puzzle with your custom image
 - Beautiful animations and effects
-- Confetti celebration on "Yes"
+- Confetti celebration on "SI"
 - Mobile responsive
 
 ## Setup
@@ -43,8 +43,8 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
 
 0. **Stage 0:** Letter appears on screen (click to open)
 1. **Stage 1:** She solves the 3x3 sliding puzzle to reveal your photo
-2. **Stage 2:** The full image appears with "...you complete me." and "Will you be my Valentine?" and a Yes button
-3. **Stage 3:** When she clicks "Yes", it's celebration time!
+2. **Stage 2:** The full image appears with "...you complete me." and "Quieres ser mi cita de San Valentin?" and a SI button
+3. **Stage 3:** When she clicks "SI", it's celebration time!
 
 ## Customization
 
